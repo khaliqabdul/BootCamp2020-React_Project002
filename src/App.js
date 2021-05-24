@@ -49,7 +49,7 @@ function App() {
             minutes <= 9 ? `0${minutes}` : minutes} : {
             seconds <= 9 ? `0${seconds}` : seconds} {ampm}
         </h1>
-        <p>Developed By: Abdul khaliq</p>
+        <p>Developed By: Abdul khaliq Azeemi</p>
       </div>
     </div>
   );
