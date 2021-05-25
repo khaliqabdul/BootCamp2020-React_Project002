@@ -33,7 +33,7 @@ jobs:
       
       
       - name: Creating build
-        run: yarn build
+        run: sudo yarn build
       
       
       - name: installing surge
